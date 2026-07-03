@@ -1,0 +1,72 @@
+[
+    {
+    "title": "Used Car Price Predictor",
+
+    "description": "A Machine Learning application that predicts the resale value of used cars using various vehicle attributes. The application provides instant price predictions with an interactive Streamlit interface.",
+
+    "tech": [
+        "Python",
+        "Machine Learning",
+        "Scikit-Learn",
+        "Pandas",
+        "NumPy",
+        "Plotly",
+        "Streamlit"
+    ],
+
+    "github": "https://car-price-predictor-onlycars.streamlit.app/",
+
+    "demo": "",
+
+    "image": "carpredictor.png"
+    },
+    {
+
+        "title":"FarmGPT",
+
+        "description":"AI driven chatbot for precision agriculture and disease prediction.",
+
+        "tech":[
+
+            "Python",
+
+            "NLP",
+
+            "Machine Learning",
+
+            "Streamlit"
+
+        ],
+
+        "github":"https://github.com/Chinmayy-raj",
+
+        "demo":"",
+
+        "image":"farmgpt.png"
+
+    },
+
+    {
+
+        "title":"ElectraPoint",
+
+        "description":"Electric vehicle charging station finder using maps and location services.",
+
+        "tech":[
+
+            "Python",
+
+            "Google Maps",
+
+            "Streamlit"
+
+        ],
+
+        "github":"https://github.com/Chinmayy-raj",
+
+        "demo":"",
+
+        "image":"electrapoint.png"
+
+    }
+]

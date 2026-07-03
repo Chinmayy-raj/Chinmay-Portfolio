@@ -1,0 +1,14 @@
+[
+    {"name":"Python"},
+    {"name":"Java"},
+    {"name":"SQL"},
+    {"name":"HTML"},
+    {"name":"CSS"},
+    {"name":"JavaScript"},
+    {"name":"Machine Learning"},
+    {"name":"NLP"},
+    {"name":"Streamlit"},
+    {"name":"Git"},
+    {"name":"GitHub"},
+    {"name":"VS Code"}
+]
